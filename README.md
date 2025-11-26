@@ -38,7 +38,7 @@ Minha missão aqui no GitHub é registrar minha evolução, publicar meus projet
 
 - 📍 Brasília – DF  
 - 🎓 Estudante de **Ciência da Computação**  
-- 💼 Focado em carreira como **Backend Developer** e **Data Engineering**  
+- 💼 Focado em carreira como **Engenharia de dados**, **Backend Developer** e **Data Engineering**  
 - 📚 Em constante evolução, construindo projetos reais e aplicando boas práticas
 
 ---
