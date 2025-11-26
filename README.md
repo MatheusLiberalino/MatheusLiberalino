@@ -63,3 +63,11 @@ Minha missão aqui no GitHub é registrar minha evolução, publicar meus projet
   <img src="https://raw.githubusercontent.com/MatheusLiberalino/MatheusLiberalino/output/profile-summary-card-output/tokyonight/4-productive-time.svg" width="800" style="border-radius: 10px; box-shadow: 0 0 10px #00000055;">
 
 </div>
+
+<div align="center">
+
+### 🐍 Snake Game – Meu GitHub em movimento
+
+![Snake animation](https://raw.githubusercontent.com/MatheusLiberalino/MatheusLiberalino/output/snake.svg)
+
+</div>
