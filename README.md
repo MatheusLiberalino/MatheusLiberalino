@@ -58,6 +58,7 @@ Minha missão aqui no GitHub é registrar minha evolução, publicar meus projet
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" title="Django"  height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="Mysql" title="Mysql" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" alt="Sqlite" title="Sqlite" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" alt="Terraform" title="Terraform" height="40"/>
 </p>
 
 ---
