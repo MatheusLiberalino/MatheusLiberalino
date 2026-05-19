@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Liberalino Nóbrega
+# 👨‍💻 Matheus Liberalino Nobrega
 
 ### 🛠️ Data Engineer | Python Developer | Backend & Data Solutions
 
