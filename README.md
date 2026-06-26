@@ -29,55 +29,46 @@ Meu foco é desenvolver soluções robustas para transformar dados em informaç�
 
 ## Linguagens
 
-- Python
-- SQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/>
+</p>
 
 ## Frameworks e Bibliotecas
 
-- FastAPI
-- Django
-- Django REST Framework
-- SQLAlchemy
-- Pandas
-- OpenPyXL
-- HTTPX
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45" height="45" alt="SQLAlchemy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</p>
 
 ## Bancos de Dados
 
-- MySQL
-- SQLite
-- PostgreSQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
 
-## Engenharia de Dados
+## Engenharia de Dados e Analytics
 
-- ETL / ELT
-- Data Pipelines
-- Modelagem de Dados
-- Integração de APIs
-- Processamento de Dados
-- Camadas Bronze, Silver e Gold
-- Power BI
-- PySpark / Databricks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="Apache"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" height="45" alt="Databricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+</p>
 
 ## DevOps e Infraestrutura
 
-- Git
-- GitHub
-- GitHub Actions
-- Terraform
-- CI/CD
-- AWS
-
-## Boas Práticas
-
-- Clean Code
-- RESTful APIs
-- Versionamento de Código
-- Organização de Projetos
-- Documentação Técnica
-- Arquitetura de Software
-
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+</p>
 
 # 📂 Projetos em Destaque
 
