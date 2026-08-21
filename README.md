@@ -53,12 +53,29 @@ Meu foco é desenvolver soluções robustas para transformar dados em informaç�
 
 ## Engenharia de Dados e Analytics
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="Apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" height="45" alt="Databricks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-</p>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Ícones</title>
+</head>
+<body>
+    <p style="display: flex; gap: 15px; align-items: center;">
+        <!-- Apache ✅ -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="Apache"/>
+        
+        <!-- Databricks ✅ (via Simple Icons) -->
+        <img src="https://cdn.simpleicons.org/databricks" width="45" height="45" alt="Databricks"/>
+        
+        <!-- NumPy ✅ -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+        
+        <!-- Jupyter ✅ -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+    </p>
+</body>
+</html>
 
 ## DevOps e Infraestrutura
 
